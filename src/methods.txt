@@ -1,0 +1,9 @@
+PUT
+http://localhost:5000/employees
+{
+    "first_name" : "Teste employee",
+    "last_name": "Teste last name",
+    "department" : "Departamento",
+    "salary" : 12,
+    "age": 12
+}
