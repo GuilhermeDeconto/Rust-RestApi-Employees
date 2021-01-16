@@ -1,6 +1,7 @@
 ## Prerequisites
 - Postgres
 - Rust Lang
+- Cargo
 - Diesel CLI
 
 ## Commands
